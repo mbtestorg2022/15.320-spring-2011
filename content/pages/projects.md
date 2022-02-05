@@ -26,9 +26,54 @@ Your grade on the team project will depend partly on:
 Key Dates
 ---------
 
-| SES # | DELIVERABLES |
-| --- | --- |
-| 7 | Identification of team and specialty |
-| 11 | Preliminary outline of final report |
-| 22-24 | In-class presentations |
-| 24 | Final written report due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+DELIVERABLES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Identification of team and specialty
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Preliminary outline of final report
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22-24
+{{< tdclose >}}
+{{< tdopen >}}
+In-class presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Final written report due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
