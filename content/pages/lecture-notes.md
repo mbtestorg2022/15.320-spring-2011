@@ -36,7 +36,7 @@ LECTURE NOTES
 What is strategic organizational design?
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1MB]({{< baseurl >}}/resources/mit15_320s11_lec01))
+([PDF - 2.1MB]({{< baseurl >}}/resources/mit15_320s11_lec01))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ Case: eBay
 Why are things changing?
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit15_320s11_lec03))
+([PDF]({{< baseurl >}}/resources/mit15_320s11_lec03))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +90,7 @@ Case: InnoCentive
 Basic organizational designs
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit15_320s11_lec05))
+([PDF]({{< baseurl >}}/resources/mit15_320s11_lec05))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +180,7 @@ Case: Siemens
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit15_320s11_lec10))
+([PDF]({{< baseurl >}}/resources/mit15_320s11_lec10))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,7 +300,7 @@ Cases: Intel scenario, Cambrian House
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit15_320s11_lec18))
+([PDF]({{< baseurl >}}/resources/mit15_320s11_lec18))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -390,7 +390,7 @@ Class conclusion
 
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mit15_320s11_lec24))
+([PDF - 1.2MB]({{< baseurl >}}/resources/mit15_320s11_lec24))
 {{< tdclose >}}
 
 {{< trclose >}}
